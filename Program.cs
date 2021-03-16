@@ -23,9 +23,11 @@ namespace apbd_01
             //ArrayList -> depricated
             var list = new List<string> {"Ala", "ma", "kota"};
 
-                //foreach(var wrt :string in list){
-                //Console.WriteLine(wrt);
-                //}
+            //foreach(var wrt :string in list){
+            //Console.WriteLine(wrt);
+            //}
+            int variable = 2;
+            Console.WriteLine(variable);
         }
     }
 }
