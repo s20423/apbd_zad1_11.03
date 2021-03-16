@@ -1,0 +1,16 @@
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.csprojAssemblyReference.cache
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.AssemblyInfoInputs.cache
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.AssemblyInfo.cs
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.exe
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.deps.json
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.runtimeconfig.json
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.runtimeconfig.dev.json
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.dll
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\ref\apbd_01.dll
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\bin\Debug\net5.0\apbd_01.pdb
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.dll
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\ref\apbd_01.dll
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.pdb
+C:\Users\Jacek\Documents\IV semestr\APBD\apbd01\apbd_01\apbd_01\obj\Debug\net5.0\apbd_01.genruntimeconfig.cache
